@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">
+  𝐇ola, &lt;Soy Mayrelis/&gt;!💻
+</h1>
 
-<!--
-**DevMayrelis/DevMayrelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 
+  align="center">Estudiante en Ingeniería de Sistemas🌟.
+</h3>
 
-Here are some ideas to get you started:
+<p>
+  Apasionada por el desarrollo de software, la tecnología y la innovación. 
+  Actualmente, me encuentro mejorando mis habilidades en desarrollo web full stack.
+<p/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>  
+    
+  ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)
+
+<br/>
