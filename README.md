@@ -19,8 +19,8 @@
 const Mayrelis = {
   rol: "Estudiante de Ingeniería de Sistemas",
   pasión: ["Frontend", "UX/UI", "Código limpio", "Accesibilidad"],
-  fortalezas: ["HTML", "CSS", "JavaScript básico", "Oracle", "Bootstrap"],
-  aprendiendo: ["React", "Git", "Python"],
+  fortalezas: ["HTML", "CSS", "Oracle", "Bootstrap"],
+  aprendiendo: ["React", "Python"],
   lema: "Con Dios todo es posible."
 }
 ```
